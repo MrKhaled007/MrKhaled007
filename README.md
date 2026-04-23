@@ -4,6 +4,7 @@ Final-year Data Science, Protection & Security student at Thomas More University
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mohammed Khaled) 
+<br>
 Portfolio (https://mdkhaledportfolio.netlify.app)
 
 # 💻 Tech Stack:
